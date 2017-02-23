@@ -5,3 +5,4 @@
  - feature-C
  - feature-D
  - comment
+ - feature-G
