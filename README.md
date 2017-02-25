@@ -6,3 +6,4 @@
  - feature-D
  - comment
  - feature-G
+ - commit2
